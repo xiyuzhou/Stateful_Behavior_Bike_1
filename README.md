@@ -1,3 +1,3 @@
 # Stateful_Behavior_Bike_1
-Page:
+Deployment Page:
 https://xiyuzhou.github.io/Stateful_Behavior_Bike_1/
